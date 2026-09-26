@@ -23,8 +23,6 @@ My interests include *Machine Learning, Artificial Intelligence,* and *Web Devel
 | HTML/CSS/JavaScript | Intermediate | 2+ years | Web page structure and interactivity |
 | Git/GitHub  | Beginner-Intermediate | Used it before, restarted this semester with a new account | Version control for assignments and projects |
 
-*Adjust the exact levels/years/uses above to match your actual current skill — I've filled these based on your CV, but you know your real experience best.*
-
 ---
 
 ## My Learning Journey
@@ -49,7 +47,6 @@ My interests include *Machine Learning, Artificial Intelligence,* and *Web Devel
   - NumPy
   - Pandas
 - Machine Learning / AI
-  - Speech Emotion Recognition project
   - Recommendation systems
 
 ---
@@ -80,10 +77,10 @@ Resource: [Firebase Documentation](https://firebase.google.com/docs)
 
 ## Project Checklist
 
-~~Originally planned to start a brand-new project from scratch~~ — decided to extend my existing Speech Emotion Recognition project instead, since it gives a stronger foundation to build on.
+~~Originally planned to start a brand-new project from scratch~~ — Speech Emotion Recognition project.
 
-- [x] Selected project topic — **Extending my Speech Emotion Recognition app with deeper data science analysis** (improved model evaluation, comparing multiple ML models, better exploratory data analysis)
-- [x] Found dataset *(reusing the voice/audio dataset from my original Speech Emotion Recognition project)*
+- [x] Selected project topic — **Speech Emotion Recognition app with deeper data science analysis**
+- [x] Found dataset *(reusing the voice/audio dataset for Speech Emotion Recognition project)*
 - [ ] Downloaded dataset
 - [ ] Cleaned dataset
 - [ ] Performed exploratory data analysis
@@ -117,8 +114,6 @@ Resource: [Firebase Documentation](https://firebase.google.com/docs)
 ## Image
 
 ![Speech Emotion Recognition App poster showing objectives, key features, and SDG alignment](speech_emotion_poster.jpg)
-
-*This is the poster from my own Speech Emotion Recognition project, directly relevant to my area of interest (AI/ML) and the project I'm extending for my MS.*
 
 ---
 
