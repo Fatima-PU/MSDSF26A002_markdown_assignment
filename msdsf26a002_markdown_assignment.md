@@ -1,14 +1,12 @@
-# [Your Full Name] — Personal Data Science Document
+# Fatima Ali — Personal Data Science Document
 
 ---
 
 ## About Me
 
-My name is **Fatima Ali**, and I am currently a *[e.g., 4th semester]* student of **[Your Degree/Program, e.g., BS Data Science]** at **[Your University Name]**. I am originally from **[Your Hometown/City]**. I have always been curious about how data can be used to understand patterns and make decisions, which is why I am pursuing a career in Data Science.
+My name is **Fatima Ali**, and I am a student of **MS Data Science** at the **University of the Punjab (PU)**. I completed my **BSCS** at COMSATS University Islamabad, Sahiwal Campus. Originally from Khanpur, now living in Johar Town, Lahore.
 
-My interests include *[e.g., machine learning, competitive programming, sports]*, and I enjoy exploring how tools like `Python`, `Pandas`, and `NumPy` can turn raw numbers into meaningful insights. I chose to learn Data Science because *[write your own reason here — one or two sentences]*. My long-term career goal is to become a **[e.g., Machine Learning Engineer / Data Analyst]**, working on problems related to *[your area of interest]*.
-
-> Replace every bracketed `[...]` placeholder above with your own real details. This paragraph must stay at least 100 words once you personalize it.
+My interests include *Machine Learning, Artificial Intelligence,* and *Web Development*, and I am currently learning to use tools like `Python`, `Pandas`, and `NumPy` to analyze data. I previously interned at **Dev Learn Dynamics** as a front-end developer, working with `React JS`, `Node.js`, and `MongoDB`. I am pursuing this MS to move deeper into AI/ML and build practical, data-driven solutions to real-world problems. My long-term goal is to become a **Machine Learning Engineer**.
 
 ---
 
@@ -16,80 +14,83 @@ My interests include *[e.g., machine learning, competitive programming, sports]*
 
 | Technology  | My Level     | Experience | I Use It For              |
 |-------------|--------------|------------|----------------------------|
-| Python      | [Beginner] | [e.g., 1 year] | [e.g., scripting, data analysis] |
-| Pandas      | [ ]          | [ ]        | [ ]                        |
-| NumPy       | [ ]          | [ ]        | [ ]                        |
-| SQL         | [ ]          | [ ]        | [ ]                        |
-| Matplotlib  | [ ]          | [ ]        | [ ]                        |
-| Java        | [ ]          | [ ]        | [ ]                        |
-| HTML/CSS    | [ ]          | [ ]        | [ ]                        |
-| Git/GitHub  | [ ]          | [ ]        | [ ]                        |
+| Python      | Beginner    | New (started in MS) | Learning data analysis for MS coursework |
+| Pandas      | [Beginner]   | [new]      | [Data cleaning and analysis] |
+| NumPy       | [Beginner]   | [new]      | [Numerical computation] |
+| React JS    | Intermediate | 1+ year    | Building front-end UI at my internship |
+| Node.js / Express JS | Intermediate | 1+ year | Backend APIs for full-stack projects |
+| MongoDB     | Intermediate | 1+ year    | Storing data for full-stack apps |
+| HTML/CSS/JavaScript | Intermediate | 2+ years | Web page structure and interactivity |
+| Git/GitHub  | Beginner-Intermediate | Used it before, restarted this semester with a new account | Version control for assignments and projects |
 
-*Fill in your actual current skill level for each — don't just copy this table.*
+*Adjust the exact levels/years/uses above to match your actual current skill — I've filled these based on your CV, but you know your real experience best.*
 
 ---
 
 ## My Learning Journey
 
-1. [e.g., Started learning programming in C++]
-2. [Learned Python basics]
-3. [Wrote my first script/program]
-4. [Learned NumPy for numerical computing]
-5. [Learned Pandas for data handling]
-6. [Learned data visualization with Matplotlib]
-7. [Worked on my first mini data science project]
-8. [Started learning Markdown and version control]
+1. Started my BSCS degree at COMSATS University Islamabad, Sahiwal Campus
+2. Learned core web technologies: HTML, CSS, and JavaScript
+3. Learned React JS and built my first front-end interfaces
+4. Learned Node.js, Express JS, and MongoDB for full-stack development
+5. Built full-stack projects like *Staybnb* and *Speech Emotion Recognition*
+6. Started an internship at Dev Learn Dynamics as a front-end developer
+7. Got admission into **MS Data Science at University of the Punjab**
+8. Started learning Python data science tools (Pandas, NumPy) and Markdown for coursework
 
 ### Nested List — My Learning Areas
 
-- Programming
-  - [Python]
-  - [C++]
+- Web Development
+  - React JS
+  - Node.js / Express JS
+  - MongoDB
 - Data Science
-  - [NumPy]
-  - [Pandas]
-  - [Visualization]
-- Machine Learning
-  - [Regression]
-  - [Classification]
+  - Python
+  - NumPy
+  - Pandas
+- Machine Learning / AI
+  - Speech Emotion Recognition project
+  - Recommendation systems
 
 ---
 
 ## My Favorite Technologies
 
-### 1. Python
-[Write why you like Python, where you've used it.]
+### 1. React JS
+I like React JS because it powers the entire frontend of my Final Year Project, **StayBnB** — an AI-powered real estate platform where users can search, filter, and book properties. Its component-based structure made it easy to build separate, reusable dashboards for users and admins.
+Resource: [React Official Docs](https://react.dev)
+
+### 2. Node.js
+I like Node.js because I used it with Express.js to build the entire application layer of StayBnB — handling business logic, APIs, and secure communication between the frontend and the database.
+Resource: [Node.js Documentation](https://nodejs.org/en/docs)
+
+### 3. MongoDB
+I like MongoDB because it formed the data layer of StayBnB, storing property listings, user accounts, and bookings. Its flexible schema made it easy to handle varied property data without rigid table structures.
+Resource: [MongoDB Documentation](https://www.mongodb.com/docs)
+
+### 4. Python
+I'm new to Python, but I like it because it's central to everything I'll be doing in my MS Data Science coursework — from data analysis to eventually building ML models.
 Resource: [Python Official Website](https://www.python.org)
 
-### 2. Pandas
-[Your own explanation.]
-Resource: [Pandas Documentation](https://pandas.pydata.org)
-
-### 3. NumPy
-[Your own explanation.]
-Resource: [NumPy Documentation](https://numpy.org)
-
-### 4. [Technology name]
-[Your own explanation.]
-Resource: [Link text](https://example.com)
-
-### 5. [Technology name]
-[Your own explanation.]
-Resource: [Link text](https://example.com)
+### 5. Firebase
+I like Firebase because I used it during my internship at Dev Learn Dynamics alongside Android Studio, where it made handling authentication and real-time data storage for mobile app features much easier without setting up a separate backend.
+Resource: [Firebase Documentation](https://firebase.google.com/docs)
 
 ---
 
 ## Project Checklist
 
-- [x] Selected project topic
-- [x] Found dataset
+~~Originally planned to start a brand-new project from scratch~~ — decided to extend my existing Speech Emotion Recognition project instead, since it gives a stronger foundation to build on.
+
+- [x] Selected project topic — **Extending my Speech Emotion Recognition app with deeper data science analysis** (improved model evaluation, comparing multiple ML models, better exploratory data analysis)
+- [x] Found dataset *(reusing the voice/audio dataset from my original Speech Emotion Recognition project)*
 - [ ] Downloaded dataset
 - [ ] Cleaned dataset
 - [ ] Performed exploratory data analysis
 - [ ] Built initial model
 - [ ] Wrote final report
 
-*Update these checkboxes to reflect your actual progress.*
+*Update these checkboxes as you make progress through the semester.*
 
 ---
 
@@ -115,9 +116,9 @@ Resource: [Link text](https://example.com)
 
 ## Image
 
-![A visual representation of data science and analytics](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
+![Speech Emotion Recognition App poster showing objectives, key features, and SDG alignment](speech_emotion_poster.jpg)
 
-*Replace this with an image relevant to your own project or interest area, with your own alt-text description.*
+*This is the poster from my own Speech Emotion Recognition project, directly relevant to my area of interest (AI/ML) and the project I'm extending for my MS.*
 
 ---
 
@@ -126,7 +127,7 @@ Resource: [Link text](https://example.com)
 - [x] Headings
 - [x] Bold
 - [x] Italic
-- [ ] Strikethrough
+- [x] Strikethrough
 - [x] Ordered List
 - [x] Unordered List
 - [x] Nested List
@@ -135,7 +136,7 @@ Resource: [Link text](https://example.com)
 - [x] Tables
 - [x] Blockquotes
 - [x] Mathematical Expressions
-- [ ] Horizontal Rule
+- [x] Horizontal Rule
 - [x] Inline Code
 
 ---
