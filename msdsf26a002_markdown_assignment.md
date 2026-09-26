@@ -122,7 +122,7 @@ Resource: [Firebase Documentation](https://firebase.google.com/docs)
 - [x] Headings
 - [x] Bold
 - [x] Italic
-- [x] Strikethrough
+- [ ] Strikethrough
 - [x] Ordered List
 - [x] Unordered List
 - [x] Nested List
